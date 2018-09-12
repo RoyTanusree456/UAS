@@ -1,0 +1,322 @@
+2018-09-08 09:57:09,885 INFO [root] - Success : MAC login
+2018-09-08 09:57:11,602 INFO [root] - Entered valid option
+2018-09-08 09:57:13,974 ERROR [root] - Entered invalid application id
+2018-09-08 09:57:16,581 INFO [root] - Entered valid application id
+2018-09-08 09:57:32,387 ERROR [root] - Entered invalid application status
+2018-09-08 09:57:33,371 ERROR [root] - Entered invalid application status
+2018-09-08 09:57:35,711 INFO [root] - Entered valid application status
+2018-09-08 10:03:27,591 ERROR [root] - Entered invalid option
+2018-09-08 10:03:36,094 INFO [root] - Entered valid option
+2018-09-08 10:03:40,416 ERROR [root] - Entered invalid application id
+2018-09-08 10:03:42,102 ERROR [root] - Entered invalid application id
+2018-09-08 10:03:44,600 INFO [root] - Entered valid application id
+2018-09-08 10:03:46,426 ERROR [root] - Entered invalid application status
+2018-09-08 10:03:48,000 ERROR [root] - Entered invalid application status
+2018-09-08 10:03:53,462 INFO [root] - Entered valid application status
+2018-09-08 10:04:28,956 INFO [root] - Entered valid option
+2018-09-08 10:14:07,462 INFO [root] - Entered valid option
+2018-09-08 10:14:13,158 INFO [root] - Success : MAC login
+2018-09-08 10:14:14,516 INFO [root] - Entered valid option
+2018-09-08 10:14:17,840 ERROR [root] - Entered invalid application id
+2018-09-08 10:14:21,413 INFO [root] - Entered valid application id
+2018-09-08 10:14:22,818 ERROR [root] - Entered invalid application status
+2018-09-08 10:14:23,724 ERROR [root] - Entered invalid application status
+2018-09-08 10:14:25,364 ERROR [root] - Entered invalid application status
+2018-09-08 10:14:26,613 ERROR [root] - Entered invalid application status
+2018-09-08 10:14:31,996 INFO [root] - Entered valid application status
+2018-09-08 10:14:39,274 INFO [root] - Entered valid option
+2018-09-08 10:15:12,897 ERROR [root] - Entered invalid application id
+2018-09-08 10:15:25,331 INFO [root] - Entered valid application id
+2018-09-08 10:16:20,219 INFO [root] - Entered valid application status
+2018-09-08 10:17:58,839 INFO [root] - Entered valid option
+2018-09-08 10:18:48,002 INFO [root] - Entered valid application id
+2018-09-08 10:18:50,688 ERROR [root] - Entered invalid application status
+2018-09-08 10:18:55,340 INFO [root] - Entered valid application status
+2018-09-08 10:19:49,057 INFO [root] - Entered valid option
+2018-09-08 10:19:51,491 ERROR [root] - Entered invalid application id
+2018-09-08 10:19:53,910 INFO [root] - Entered valid application id
+2018-09-08 10:19:58,422 ERROR [root] - Entered invalid application status
+2018-09-08 10:20:03,758 INFO [root] - Entered valid application status
+2018-09-08 10:20:07,207 INFO [root] - Success : Application status updated
+2018-09-08 10:20:41,297 INFO [root] - Entered valid option
+2018-09-08 10:20:43,669 INFO [root] - Entered valid application id
+2018-09-08 10:20:47,367 INFO [root] - Entered valid application status
+2018-09-08 10:21:14,251 INFO [root] - Entered valid option
+2018-09-08 10:21:15,437 ERROR [root] - Entered invalid application id
+2018-09-08 10:21:17,466 INFO [root] - Entered valid application id
+2018-09-08 10:21:18,637 ERROR [root] - Entered invalid application status
+2018-09-08 10:21:19,340 ERROR [root] - Entered invalid application status
+2018-09-08 10:21:20,666 ERROR [root] - Entered invalid application status
+2018-09-08 10:21:23,366 INFO [root] - Entered valid application status
+2018-09-08 10:21:23,617 INFO [root] - Success : Application status updated
+2018-09-08 10:29:19,471 INFO [root] - Entered valid option
+2018-09-08 10:29:21,235 INFO [root] - Entered valid application id
+2018-09-08 10:29:25,433 INFO [root] - Entered valid application status
+2018-09-08 10:29:25,792 INFO [root] - Success : Application status updated
+2018-09-08 10:29:54,624 INFO [root] - Entered valid option
+2018-09-08 10:29:59,274 INFO [root] - Entered valid application id
+2018-09-08 10:30:03,207 INFO [root] - Entered valid application status
+2018-09-08 10:30:21,291 INFO [root] - Entered valid option
+2018-09-08 10:30:23,788 INFO [root] - Entered valid application id
+2018-09-08 10:30:26,285 ERROR [root] - Entered invalid application status
+2018-09-08 10:30:29,984 INFO [root] - Entered valid application status
+2018-09-08 10:30:30,219 INFO [root] - Success : Application status updated
+2018-09-08 10:31:01,797 INFO [root] - Entered valid option
+2018-09-08 10:31:18,606 INFO [root] - Entered valid option
+2018-09-08 10:31:36,928 INFO [root] - Entered valid option
+2018-09-08 10:31:47,493 INFO [root] - Success : MAC login
+2018-09-08 10:31:55,905 ERROR [root] - Entered invalid option
+2018-09-08 10:31:57,310 INFO [root] - Entered valid option
+2018-09-08 10:32:09,186 INFO [root] - Entered valid option
+2018-09-08 10:32:15,789 INFO [root] - Entered valid option
+2018-09-08 10:32:18,427 INFO [root] - Entered valid option
+2018-09-08 10:32:19,160 INFO [root] - Success : Read all programs offered
+2018-09-08 10:33:56,470 INFO [root] - Entered valid option
+2018-09-08 10:33:58,421 ERROR [root] - Entered invalid application id
+2018-09-08 10:34:00,606 INFO [root] - Entered valid application id
+2018-09-08 10:34:04,010 INFO [root] - Entered valid option
+2018-09-08 10:34:09,892 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:34:13,202 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:36:15,465 INFO [root] - Entered valid option
+2018-09-08 10:36:16,683 INFO [root] - Entered valid option
+2018-09-08 10:36:19,835 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:36:31,366 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:37:09,690 INFO [root] - Entered valid option
+2018-09-08 10:37:11,329 INFO [root] - Entered valid option
+2018-09-08 10:37:14,699 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:37:23,219 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:37:31,381 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:37:53,316 INFO [root] - Entered valid applicant name
+2018-09-08 10:40:37,537 ERROR [root] - Entered invalid dob
+2018-09-08 10:40:44,280 ERROR [root] - Entered invalid dob
+2018-09-08 10:41:00,179 INFO [root] - Entered valid dob
+2018-09-08 10:41:16,859 INFO [root] - Entered valid qualification text
+2018-09-08 10:41:20,183 ERROR [root] - Entered invalid marks
+2018-09-08 10:41:27,145 ERROR [root] - Entered invalid marks
+2018-09-08 10:41:29,611 ERROR [root] - Entered invalid marks
+2018-09-08 10:41:43,824 INFO [root] - Entered valid marks
+2018-09-08 10:42:06,451 INFO [root] - Entered valid goal text
+2018-09-08 10:42:26,892 ERROR [root] - Entered invalid email
+2018-09-08 10:42:40,344 ERROR [root] - Entered invalid email
+2018-09-08 10:42:40,344 ERROR [root] - Entered invalid email
+2018-09-08 10:44:34,076 ERROR [root] - Entered invalid option
+2018-09-08 10:44:34,092 INFO [root] - Entered valid option
+2018-09-08 10:44:51,836 ERROR [root] - Entered invalid option
+2018-09-08 10:44:51,836 ERROR [root] - Entered invalid option
+2018-09-08 10:45:34,374 INFO [root] - Entered valid option
+2018-09-08 10:45:44,394 INFO [root] - Entered valid option
+2018-09-08 10:45:45,831 INFO [root] - Entered valid option
+2018-09-08 10:45:53,946 INFO [root] - Entered valid applicant name
+2018-09-08 10:46:01,007 INFO [root] - Entered valid dob
+2018-09-08 10:46:04,940 INFO [root] - Entered valid qualification text
+2018-09-08 10:46:09,247 INFO [root] - Entered valid marks
+2018-09-08 10:46:13,210 INFO [root] - Entered valid goal text
+2018-09-08 10:46:28,174 INFO [root] - Entered valid email
+2018-09-08 10:46:33,059 ERROR [root] - Exception occurred : Apply for a program
+2018-09-08 10:47:12,491 INFO [root] - Entered valid option
+2018-09-08 10:47:13,943 INFO [root] - Entered valid option
+2018-09-08 10:47:15,035 INFO [root] - Success : Read all programs offered
+2018-09-08 10:47:25,566 INFO [root] - Entered valid option
+2018-09-08 10:47:36,317 INFO [root] - Entered valid application id
+2018-09-08 10:47:38,722 INFO [root] - Entered valid option
+2018-09-08 10:47:41,375 INFO [root] - Entered valid application id
+2018-09-08 10:47:41,454 INFO [root] - Success : Read application status
+2018-09-08 10:47:48,896 INFO [root] - Entered valid option
+2018-09-08 10:47:58,523 INFO [root] - Entered valid applicant name
+2018-09-08 10:48:04,234 INFO [root] - Entered valid dob
+2018-09-08 10:48:08,182 INFO [root] - Entered valid qualification text
+2018-09-08 10:48:10,367 INFO [root] - Entered valid marks
+2018-09-08 10:48:13,272 INFO [root] - Entered valid goal text
+2018-09-08 10:48:25,988 INFO [root] - Entered valid email
+2018-09-08 10:48:28,766 INFO [root] - Success : Application received
+2018-09-08 10:48:57,710 INFO [root] - Entered valid option
+2018-09-08 10:49:01,034 INFO [root] - Entered valid application id
+2018-09-08 10:49:01,096 INFO [root] - Success : Read application status
+2018-09-08 10:49:04,997 INFO [root] - Entered valid option
+2018-09-08 10:49:26,235 ERROR [root] - Entered invalid applicant name
+2018-09-08 10:49:30,060 INFO [root] - Entered valid applicant name
+2018-09-08 10:49:42,416 ERROR [root] - Entered invalid dob
+2018-09-08 10:49:51,545 INFO [root] - Entered valid dob
+2018-09-08 10:49:56,399 INFO [root] - Entered valid qualification text
+2018-09-08 10:50:01,393 INFO [root] - Entered valid marks
+2018-09-08 10:50:23,376 INFO [root] - Entered valid goal text
+2018-09-08 10:50:30,508 ERROR [root] - Entered invalid email
+2018-09-08 10:50:39,386 INFO [root] - Entered valid email
+2018-09-08 10:50:44,176 INFO [root] - Success : Application received
+2018-09-08 10:50:47,422 INFO [root] - Entered valid option
+2018-09-08 10:50:49,295 INFO [root] - Entered valid application id
+2018-09-08 10:50:49,404 INFO [root] - Success : Read application status
+2018-09-08 10:50:52,200 INFO [root] - Entered valid option
+2018-09-08 16:43:13,023 INFO [root] - Entered valid option
+2018-09-08 16:43:16,723 INFO [root] - Entered valid option
+2018-09-08 16:43:17,488 INFO [root] - Success : Read all programs offered
+2018-09-08 16:43:58,799 ERROR [root] - Entered invalid option
+2018-09-08 16:44:01,249 INFO [root] - Entered valid option
+2018-09-08 16:44:06,851 INFO [root] - Entered valid option
+2018-09-08 16:44:10,721 INFO [root] - Entered valid application id
+2018-09-08 16:44:10,783 INFO [root] - Success : Read application status
+2018-09-08 16:44:18,116 INFO [root] - Entered valid option
+2018-09-08 16:44:18,210 INFO [root] - Success : Read all programs offered
+2018-09-08 16:44:28,835 INFO [root] - Entered valid option
+2018-09-08 16:44:32,830 ERROR [root] - Entered invalid applicant name
+2018-09-08 16:44:42,597 INFO [root] - Entered valid applicant name
+2018-09-08 16:44:53,331 INFO [root] - Entered valid dob
+2018-09-08 16:45:03,706 INFO [root] - Entered valid qualification text
+2018-09-08 16:45:06,109 ERROR [root] - Entered invalid marks
+2018-09-08 16:45:09,562 ERROR [root] - Entered invalid marks
+2018-09-08 16:45:14,056 INFO [root] - Entered valid marks
+2018-09-08 16:45:22,683 INFO [root] - Entered valid goal text
+2018-09-08 16:45:34,698 INFO [root] - Entered valid email
+2018-09-08 16:45:39,426 INFO [root] - Success : Application received
+2018-09-08 16:45:42,984 INFO [root] - Entered valid option
+2018-09-08 16:45:44,482 INFO [root] - Entered valid application id
+2018-09-08 16:45:44,545 INFO [root] - Success : Read application status
+2018-09-08 16:45:49,444 INFO [root] - Entered valid option
+2018-09-08 16:45:55,785 INFO [root] - Entered valid option
+2018-09-08 16:46:04,852 INFO [root] - Success : MAC login
+2018-09-08 16:46:12,515 INFO [root] - Entered valid option
+2018-09-08 16:46:14,403 INFO [root] - Entered valid application id
+2018-09-08 16:46:18,757 ERROR [root] - Entered invalid application status
+2018-09-08 16:46:23,063 INFO [root] - Entered valid application status
+2018-09-08 16:46:58,541 INFO [root] - Entered valid option
+2018-09-08 16:47:00,524 ERROR [root] - Entered invalid application id
+2018-09-08 16:47:02,475 INFO [root] - Entered valid application id
+2018-09-08 16:47:06,937 INFO [root] - Entered valid application status
+2018-09-08 16:48:33,994 INFO [root] - Entered valid option
+2018-09-08 16:48:44,745 ERROR [root] - Entered invalid option
+2018-09-08 16:48:46,446 INFO [root] - Entered valid option
+2018-09-08 16:48:49,567 INFO [root] - Success : Read applications for a program
+2018-09-08 16:48:53,905 INFO [root] - Entered valid option
+2018-09-10 09:26:20,413 INFO [root] - Entered valid option
+2018-09-10 09:26:26,189 INFO [root] - Success : MAC login
+2018-09-10 09:26:36,565 INFO [root] - Entered valid option
+2018-09-10 09:26:44,117 INFO [root] - Entered valid option
+2018-09-10 09:26:46,817 INFO [root] - Success : Read applications for a program
+2018-09-10 09:27:10,455 INFO [root] - Entered valid option
+2018-09-10 09:27:31,504 INFO [root] - Entered valid application id
+2018-09-10 09:27:34,204 ERROR [root] - Entered invalid application status
+2018-09-10 09:27:35,094 ERROR [root] - Entered invalid application status
+2018-09-10 09:27:38,947 INFO [root] - Entered valid application status
+2018-09-10 09:27:44,876 INFO [root] - Entered valid option
+2018-09-10 09:27:47,108 INFO [root] - Entered valid application id
+2018-09-10 09:27:50,916 ERROR [root] - Entered invalid application status
+2018-09-10 09:27:54,443 INFO [root] - Entered valid application status
+2018-09-10 09:27:54,897 INFO [root] - Success : Application status updated
+2018-09-10 09:27:59,656 INFO [root] - Entered valid option
+2018-09-10 09:28:04,136 INFO [root] - Success : Read applications for a program
+2018-09-10 09:28:15,370 INFO [root] - Entered valid option
+2018-09-10 09:28:18,522 ERROR [root] - Entered invalid application id
+2018-09-10 09:28:20,348 INFO [root] - Entered valid application id
+2018-09-10 09:28:21,488 ERROR [root] - Entered invalid application status
+2018-09-10 09:28:22,394 ERROR [root] - Entered invalid application status
+2018-09-10 09:28:23,252 ERROR [root] - Entered invalid application status
+2018-09-10 09:28:27,483 INFO [root] - Entered valid application status
+2018-09-10 09:28:27,966 INFO [root] - Success : Application status updated
+2018-09-10 09:28:30,276 INFO [root] - Entered valid option
+2018-09-10 09:28:33,538 INFO [root] - Success : Read applications for a program
+2018-09-10 09:28:56,567 INFO [root] - Entered valid option
+2018-09-10 09:29:00,767 INFO [root] - Entered valid option
+2018-09-10 09:36:48,348 INFO [root] - Entered valid option
+2018-09-10 09:36:53,016 INFO [root] - Success : MAC login
+2018-09-10 09:36:54,780 INFO [root] - Entered valid option
+2018-09-10 09:36:59,664 INFO [root] - Entered valid application id
+2018-09-10 09:37:05,252 INFO [root] - Entered valid application status
+2018-09-10 09:37:16,906 INFO [root] - Entered valid option
+2018-09-10 09:37:36,899 INFO [root] - Entered valid option
+2018-09-10 09:37:41,628 INFO [root] - Success : MAC login
+2018-09-10 09:37:46,122 INFO [root] - Entered valid option
+2018-09-10 09:37:48,822 INFO [root] - Entered valid application id
+2018-09-10 09:37:50,556 ERROR [root] - Entered invalid application status
+2018-09-10 09:37:59,091 INFO [root] - Entered valid application status
+2018-09-10 09:38:12,635 INFO [root] - Entered valid option
+2018-09-10 09:42:33,929 INFO [root] - Entered valid option
+2018-09-10 09:42:39,095 INFO [root] - Success : MAC login
+2018-09-10 09:42:40,643 INFO [root] - Entered valid option
+2018-09-10 09:42:43,030 ERROR [root] - Entered invalid application id
+2018-09-10 09:42:45,278 INFO [root] - Entered valid application id
+2018-09-10 09:42:48,368 ERROR [root] - Entered invalid application status
+2018-09-10 09:42:57,621 INFO [root] - Entered valid application status
+2018-09-10 09:43:09,494 INFO [root] - Entered valid option
+2018-09-10 09:43:11,634 INFO [root] - Entered valid application id
+2018-09-10 09:43:15,192 INFO [root] - Entered valid application status
+2018-09-10 09:43:15,614 INFO [root] - Success : Application status updated
+2018-09-10 09:43:39,890 INFO [root] - Entered valid option
+2018-09-10 09:43:41,594 INFO [root] - Entered valid application id
+2018-09-10 09:43:52,671 INFO [root] - Entered valid application status
+2018-09-10 09:43:53,389 INFO [root] - Success : Application status updated
+2018-09-10 09:44:02,611 INFO [root] - Entered valid option
+2018-09-10 09:44:09,539 ERROR [root] - Entered invalid option
+2018-09-10 09:44:13,770 INFO [root] - Entered valid option
+2018-09-10 09:44:15,815 INFO [root] - Success : Read applications for a program
+2018-09-10 09:49:20,133 ERROR [root] - Entered invalid option
+2018-09-10 09:49:24,991 INFO [root] - Entered valid option
+2018-09-10 11:14:29,199 INFO [root] - Entered valid option
+2018-09-10 11:14:51,822 INFO [root] - Entered valid option
+2018-09-10 11:14:52,726 INFO [root] - Success : Read all programs offered
+2018-09-10 11:15:37,411 INFO [root] - Entered valid option
+2018-09-10 11:15:57,866 INFO [root] - Entered valid applicant name
+2018-09-10 11:16:21,396 ERROR [root] - Entered invalid dob
+2018-09-10 11:16:39,883 ERROR [root] - Entered invalid dob
+2018-09-10 11:17:36,034 INFO [root] - Entered valid dob
+2018-09-10 11:17:41,729 INFO [root] - Entered valid qualification text
+2018-09-10 11:19:18,310 INFO [root] - Entered valid marks
+2018-09-10 11:19:23,022 INFO [root] - Entered valid goal text
+2018-09-10 11:19:33,165 INFO [root] - Entered valid email
+2018-09-10 11:19:46,052 INFO [root] - Success : Application received
+2018-09-10 11:20:00,127 INFO [root] - Entered valid option
+2018-09-10 11:20:02,748 INFO [root] - Entered valid application id
+2018-09-10 11:20:02,951 INFO [root] - Success : Read application status
+2018-09-10 11:20:15,980 INFO [root] - Entered valid option
+2018-09-10 11:20:24,954 INFO [root] - Entered valid applicant name
+2018-09-10 11:20:28,605 INFO [root] - Entered valid dob
+2018-09-10 11:20:33,099 INFO [root] - Entered valid qualification text
+2018-09-10 11:20:36,298 INFO [root] - Entered valid marks
+2018-09-10 11:20:41,213 INFO [root] - Entered valid goal text
+2018-09-10 11:21:04,633 ERROR [root] - Entered invalid email
+2018-09-10 11:22:40,179 ERROR [root] - Entered invalid email
+2018-09-10 11:22:50,492 INFO [root] - Entered valid email
+2018-09-10 11:22:55,158 INFO [root] - Success : Application received
+2018-09-10 11:22:58,996 INFO [root] - Entered valid option
+2018-09-10 11:23:00,792 INFO [root] - Entered valid application id
+2018-09-10 11:23:00,870 INFO [root] - Success : Read application status
+2018-09-10 11:23:11,573 INFO [root] - Entered valid option
+2018-09-10 11:24:08,554 INFO [root] - Entered valid option
+2018-09-10 11:24:27,124 INFO [root] - Success : Admin login 
+2018-09-10 11:24:36,298 INFO [root] - Entered valid option
+2018-09-10 11:24:45,973 INFO [root] - Entered valid option
+2018-09-10 11:26:21,891 INFO [root] - Entered valid new description text
+2018-09-10 11:26:22,078 INFO [root] - Success : Program description updated
+2018-09-10 11:27:18,654 INFO [root] - Entered valid option
+2018-09-10 11:27:22,306 INFO [root] - Entered valid program name
+2018-09-10 11:27:39,984 INFO [root] - Entered valid description text
+2018-09-10 11:27:44,307 INFO [root] - Entered valid eligibility text
+2018-09-10 11:29:50,703 INFO [root] - Entered valid duration
+2018-09-10 11:29:56,975 INFO [root] - Entered valid certificate details
+2018-09-10 11:29:57,069 INFO [root] - Success : New program added
+2018-09-10 11:30:13,408 INFO [root] - Entered valid option
+2018-09-10 11:30:19,337 INFO [root] - Success : Program deleted
+2018-09-10 11:30:24,674 INFO [root] - Entered valid option
+2018-09-10 11:30:30,603 INFO [root] - Entered valid option
+2018-09-10 11:30:35,754 INFO [root] - Success : Read applications of a program by status
+2018-09-10 11:30:50,531 INFO [root] - Entered valid option
+2018-09-10 11:30:52,981 ERROR [root] - Entered invalid option
+2018-09-10 11:30:57,210 INFO [root] - Entered valid option
+2018-09-10 11:31:00,191 INFO [root] - Success : Read applications of a program by status
+2018-09-10 11:31:58,997 INFO [root] - Entered valid option
+2018-09-10 11:32:03,603 INFO [root] - Entered valid option
+2018-09-10 11:32:08,503 INFO [root] - Success : MAC login
+2018-09-10 11:32:15,587 INFO [root] - Entered valid option
+2018-09-10 11:32:21,939 INFO [root] - Entered valid application id
+2018-09-10 11:32:28,133 ERROR [root] - Entered invalid application status
+2018-09-10 11:32:34,782 INFO [root] - Entered valid application status
+2018-09-10 11:32:47,482 INFO [root] - Entered valid option
+2018-09-10 11:32:51,632 INFO [root] - Success : Read applications for a program
+2018-09-10 11:33:40,500 INFO [root] - Entered valid option
+2018-09-10 11:33:42,687 INFO [root] - Entered valid application id
+2018-09-10 11:33:47,633 INFO [root] - Entered valid application status
+2018-09-10 11:34:19,962 INFO [root] - Entered valid option
+2018-09-10 11:34:22,818 INFO [root] - Entered valid application id
+2018-09-10 11:34:26,656 INFO [root] - Entered valid application status
+2018-09-10 11:35:05,740 INFO [root] - Entered valid option
+2018-09-10 11:43:32,228 INFO [root] - Entered valid option
+2018-09-10 11:43:34,242 INFO [root] - Entered valid option
